@@ -1,6 +1,6 @@
 # math-130
 Intro to computer programming
 
-##Contributors
+## Contributors
 
 * Javonta Young
